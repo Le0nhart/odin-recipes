@@ -10,8 +10,8 @@ img {height: auto;
     margin-right: auto;
     border: 10px solid #ebea8fe8; border-style: solid; border-radius: 12px;}
 
-.recipe-menu { border: 10px solid #ebea8fe8; width: 30%; height: auto; margin: auto;
-                 border-style: dashed; border-radius: 12px;}
+.recipe-menu { border: 5px #ef916fe0; width: 30%; height: auto; margin: auto;
+                 border-style: solid double; border-radius: 12px; background-color: rgb(154, 235, 235);}
 
 ul {list-style-type:none; margin: 0%; padding: 5%; text-align: center;}
 
