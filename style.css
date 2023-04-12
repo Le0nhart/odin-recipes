@@ -8,7 +8,10 @@ img {height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border: 10px solid #ebea8fe8; }
+    border: 10px solid #ebea8fe8; border-style: solid; border-radius: 12px;}
+
+.recipe-menu { border: 10px solid #ebea8fe8; width: 30%; height: auto; margin: auto;
+                 border-style: dashed; border-radius: 12px;}
 
 ul {list-style-type:none; margin: 0%; padding: 5%; text-align: center;}
 

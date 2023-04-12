@@ -9,7 +9,12 @@ img {height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border: 10px solid #ebea8fe8;}
+    border: 10px solid #ebea8fe8; border-radius: 12px;}
+
+    .oatmeal-content { border: 5px #ef916fe0; margin: auto; border-style: double;
+        border-radius: 12px; background-color: rgb(154, 235, 235);}
+   
+           .text-location { margin-left: 20px;}
 
     .homelink {margin: 50%; padding: 0%; text-align: center;}
 
