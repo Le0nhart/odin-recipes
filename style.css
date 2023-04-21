@@ -11,12 +11,28 @@ img {height: auto;
     border: 10px solid #ebea8fe8; border-style: solid; border-radius: 12px; 
     margin-bottom: 50px;}
 
-.recipe-menu { border: 5px #ef916fe0; width: 30%; height: auto; margin: auto;
+.recipe-menu { border: 5px #ef916fe0; width: 30%; height: auto; margin: auto; margin-bottom: 40px;
                  border-style: solid double; border-radius: 12px; background-color: rgb(154, 235, 235);}
 
 ul {list-style-type:none; margin: 0%; padding: 5%; text-align: center;}
 
 .recipe-link1 { border-style: none; margin: 50px;}
+
+
+.tofulink { background-color: #00909080; cursor: pointer; border: 2px solid; border-color: #ef916fe0; border-radius: 12px; 
+    padding: 10px; transition-duration: 0.4s; font-size: 20px; margin: 20px; left: 50px;}
+
+.tofulink:hover { background-color: #ef916fe0;}
+
+.redbeanlink  { background-color: #00909080; cursor: pointer; border: 2px solid; border-color: #ef916fe0; border-radius: 12px; 
+    padding: 10px; transition-duration: 0.4s; font-size: 20px; margin: 20px; left: 50px;}
+
+.redbeanlink:hover { background-color: #ef916fe0;}
+
+.oatmeallink { background-color: #00909080; cursor: pointer; border: 2px solid; border-color: #ef916fe0; border-radius: 12px; 
+    padding: 10px; transition-duration: 0.4s; font-size: 20px; margin: 20px; left: 50px;}
+
+.oatmeallink:hover { background-color: #ef916fe0;}
 
 body {font-family: 'Josefin Sans', sans-serif;
     font-family: 'Open Sans', sans-serif;}
